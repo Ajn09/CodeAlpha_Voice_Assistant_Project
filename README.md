@@ -1,4 +1,4 @@
-The CodeAlpha Voice Assistant project is an AI-powered voice assistant built using Python programming language. It utilizes various libraries and APIs to provide a range of functionalities, including:
+The Hellona Voice Assistant project is an AI-powered voice assistant built using Python programming language. It utilizes various libraries and APIs to provide a range of functionalities, including:
 
 Voice Recognition: The assistant can recognize and interpret voice commands spoken by the user using the SpeechRecognition library.
 
@@ -20,4 +20,4 @@ YouTube Playback: Users can ask the assistant to play videos from YouTube by spe
 
 Sending Messages: The assistant can send WhatsApp messages to specified contacts at scheduled times using the pywhatkit library.
 
-The CodeAlpha Voice Assistant project aims to provide users with a hands-free, intuitive way to interact with their computer and access information, perform tasks, and control applications using natural language commands. It demonstrates the integration of various Python libraries and APIs to create a functional voice assistant with voice recognition, text-to-speech, and AI capabilities.
+The Hellona Voice Assistant project aims to provide users with a hands-free, intuitive way to interact with their computer and access information, perform tasks, and control applications using natural language commands. It demonstrates the integration of various Python libraries and APIs to create a functional voice assistant with voice recognition, text-to-speech, and AI capabilities.
